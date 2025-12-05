@@ -8,8 +8,8 @@ Services I provide: VPS Configuration (Website + Server Files) | Server Editing 
 
 <h1>𝗗𝗶𝘀𝗽𝗼𝗻𝗶𝘃𝗲𝗹 𝗽𝗮𝗿𝗮 𝗩𝗲𝗻𝗱𝗮 | 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗳𝗼𝗿 𝗦𝗮𝗹𝗲</h1>
 ✅ 𝗖𝗹𝗲𝗮𝗻 𝗖𝗹𝗶𝗲𝗻𝘁 + 𝗦𝗲𝗿𝘃𝗲𝗿 𝗙𝗶𝗹𝗲𝘀
-– Shop T-Points Bug (Fixed) | Teleport Bug (Fixed) | Cheat Menu (Skill Fixed) | Cheat Menu (Enter or Leave Caves Fixed) | PVP + PVE Working Fixed | SBL Working Fixed | Blood Palace War Fixed.
-
+– Shop T-Points Bug (Fixed) | Teleport Bug (Fixed) | Cheat Menu (Skill Fixed) | Cheat Menu (Enter or Leave Caves Fixed) | PVP + PVE Working Fixed |
+SBL Working Fixed | Blood Palace War Fixed.
 
 ✅ 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀 (𝟭𝟬𝟬% 𝗦𝗲𝗰𝘂𝗿𝗲)
 – Secure, beautiful, modern, and easy-to-edit websites.
