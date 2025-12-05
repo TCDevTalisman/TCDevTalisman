@@ -1,9 +1,9 @@
 <h1>𝗕𝗲𝗺 𝗩𝗶𝗻𝗱𝗼 - 𝗦𝗼𝗯𝗿𝗲 𝗠𝗶𝗺</h1> 👋🏽
-Sou desenvolvedor de servidores privados para Talisman Online & Weapons of War Online, apaixonado por criar experiências online imersivas.<br>
+Sou desenvolvedor de servidores para Talisman Online & Weapons of War Online, apaixonado por criar experiências online imersivas.<br>
 ☯️ 𝗦𝗲𝗿𝘃𝗶𝗰̧𝗼𝘀 𝗾𝘂𝗲 𝗽𝗿𝗲𝘀𝘁𝗼: Configuração da VPS (Site + Server Files) | Edição de Servidores | Criação de Sistemas e ou Eventos Exclusivos | Support 24/7.
 
 <h1>𝗪𝗲𝗹𝗰𝗼𝗺𝗲 - 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲</h1> 👋🏽
-I am a private server developer for Talisman Online & Weapons of War Online, passionate about creating immersive online experiences.<br>
+I am a server developer for Talisman Online & Weapons of War Online, passionate about creating immersive online experiences.<br>
 ☯️ 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗜 𝗽𝗿𝗼𝘃𝗶𝗱𝗲: VPS Configuration (Website + Server Files) | Server Editing | Creation of Exclusive Systems and/or Events | 24/7 Support.
 
 <h1>𝗗𝗶𝘀𝗽𝗼𝗻𝗶𝘃𝗲𝗹 𝗽𝗮𝗿𝗮 𝗩𝗲𝗻𝗱𝗮 | 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗳𝗼𝗿 𝗦𝗮𝗹𝗲</h1>
